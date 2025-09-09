@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Ahsaanuddin  
 
-<!--
-**ahsaan-uddin/ahsaan-uddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cloud & DevOps Engineer | AWS | Azure | Linux | CI/CD | Kubernetes | Terraform**  
 
-Here are some ideas to get you started:
+I am a passionate Cloud & DevOps Engineer with hands-on experience in **AWS, Azure, Linux, CI/CD, Docker, Kubernetes, and Infrastructure as Code (Terraform, Ansible)**.  
+I love building **scalable cloud infrastructure**, automating deployments, and improving reliability through DevOps best practices.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" /> 
+</p>  
+
+- ☁️ **Cloud**: AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch), Azure (VMs, AKS, ACR, Storage, Networking)  
+- ⚙️ **DevOps & CI/CD**: Jenkins, GitHub Actions, Azure DevOps, GitLab CI  
+- 🐳 **Containers & Orchestration**: Docker, Kubernetes (EKS, AKS)  
+- 🛠 **Infrastructure as Code**: Terraform, Ansible, CloudFormation  
+- 🔒 **Monitoring & Security**: Prometheus, Grafana, CloudWatch, Trivy  
+- 🐧 **Operating Systems**: Linux (Ubuntu, CentOS, Slackware)  
+- 💻 **Scripting**: Python, Bash, PowerShell  
+
+---
+
+## 📜 Certifications  
+
+- 🏆 **AWS Certified Solutions Architect – Associate (SAA-C03)**  
+- 🏆 **Microsoft Certified: Azure Administrator Associate (AZ-104)**  
+- 🏆 **Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)**  
+
+---
+
+## 📈 GitHub Stats  
+
+![Ahsaanuddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsaan-uddin&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsaan-uddin&layout=compact&theme=tokyonight)  
+
+---
+
+## 📌 Featured Projects  
+
+- 🔹 [Medusa Backend Deployment on AWS ECS with Terraform](https://github.com/ahsaan-uddin)  
+- 🔹 [PHP App Deployment on Kubernetes](https://github.com/ahsaan-uddin)  
+- 🔹 [Python + Node.js Scraper on AWS](https://github.com/ahsaan-uddin)  
+- 🔹 [OSPF + BGP Redistribution in GNS3](https://github.com/ahsaan-uddin)  
+
+*(Check more projects on my [GitHub Repositories](https://github.com/ahsaan-uddin))*  
+
+---
+
+## ✍️ Articles  
+
+I write about **Cloud, DevOps, and Automation** on [Medium](https://medium.com/@ahsaan_devops).  
+
+---
+
+## 📫 Connect with Me  
+
+- 🔗 **GitHub**: [ahsaan-uddin](https://github.com/ahsaan-uddin)  
+- 🔗 **LinkedIn**: [Mohammed Ahsaanuddin](https://www.linkedin.com/in/ahsaanuddin/)  
+- 📧 **Email**: [ahsaanuddin18@gmail.com](mailto:ahsaanuddin18@gmail.com)  
+
+---
+
+⭐️ *“Automating today for a faster tomorrow.”*  
