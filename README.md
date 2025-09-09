@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="DevOps Banner" width="100%" />
+  <img src="banner.png" alt="DevOps Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Mohammed Ahsaanuddin  
