@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" alt="DevOps Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Mohammed Ahsaanuddin  
 
 🚀 **Cloud & DevOps Engineer | AWS | Azure | Linux | CI/CD | Kubernetes | Terraform**  
@@ -10,7 +14,7 @@ I love building **scalable cloud infrastructure**, automating deployments, and i
 ## 🔧 Skills & Tools  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" />
