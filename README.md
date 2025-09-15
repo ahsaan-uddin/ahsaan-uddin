@@ -25,7 +25,7 @@ I love building **scalable cloud infrastructure**, automating deployments, and i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" /> 
 </p>  
 
-- ☁️ **Cloud**: AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch), Azure (VMs, AKS, ACR, Storage, Networking)  
+- ☁️ **Cloud**: AWS (EC2, S3, IAM, VPC, RDS, Lambda, CloudWatch), Azure (VMs, VNet, AKS, ACR, Storage, Networking)  
 - ⚙️ **DevOps & CI/CD**: Jenkins, GitHub Actions, Azure DevOps, GitLab CI  
 - 🐳 **Containers & Orchestration**: Docker, Kubernetes (EKS, AKS)  
 - 🛠 **Infrastructure as Code**: Terraform, Ansible, CloudFormation  
