@@ -52,10 +52,9 @@ I love building **scalable cloud infrastructure**, automating deployments, and i
 
 ## 📌 Featured Projects  
 
-- 🔹 [Medusa Backend Deployment on AWS ECS with Terraform](https://github.com/ahsaan-uddin)  
-- 🔹 [PHP App Deployment on Kubernetes](https://github.com/ahsaan-uddin)  
-- 🔹 [Python + Node.js Scraper on AWS](https://github.com/ahsaan-uddin)  
-- 🔹 [OSPF + BGP Redistribution in GNS3](https://github.com/ahsaan-uddin)  
+- 🔹 [Medusa Backend Deployment on AWS ECS with Terraform](https://github.com/ahsaan-uddin/medusa)  
+- 🔹 [Amazon-Prime-Clone](https://github.com/ahsaan-uddin/Amazon-Prime-Clone)  
+- 🔹 [Python + Node.js Scraper on AWS](https://github.com/ahsaan-uddin/Node-Python-Web-Scraper)  
 
 *(Check more projects on my [GitHub Repositories](https://github.com/ahsaan-uddin))*  
 
